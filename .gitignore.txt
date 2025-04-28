@@ -1,0 +1,42 @@
+# Unreal Engine standard ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.log
+*.vspscc
+*.vssscc
+.vs/
+
+# Ignore built data
+Build/
+
+# Ignore build temp files
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+
+# Ignore config files that are user-specific
+*.db
+*.sln.docstates
+
+# Ignore compiled assets
+*.dll
+*.exe
+*.app
+*.dylib
+*.so
+
+# Ignore crash reports
+CrashReportClient/
+
+# Ignore MacOS specific files
+.DS_Store
